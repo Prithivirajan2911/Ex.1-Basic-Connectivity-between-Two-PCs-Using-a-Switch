@@ -1,5 +1,7 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-# Date : 		
+### Date : 22.08.25
+### Name: Prithivirajan V
+### Reg no: 212223100042
 
 # Objective
 
@@ -39,8 +41,12 @@ For Router Configuration (CLI):<br>
 
 ________________________________________
 # Output (Screenshots / Ping Results)
+## •	Connectivity between two PCs<br>
+<img width="1465" height="800" alt="Screenshot 2025-08-30 140431" src="https://github.com/user-attachments/assets/56a99708-247d-43b1-9750-c696ec87ee9b" />
 
-Insert screenshots showing ping success, configuration, or simulation results.
+## •	Successful ping between PC0 and PC1<br>
+<img width="867" height="856" alt="Screenshot 2025-08-30 140253" src="https://github.com/user-attachments/assets/40485c74-ec04-42f1-b2b9-15cad34d0b83" />
+
 ________________________________________
 # Result
 “Successfully configured and verified basic LAN communication between two PCs using a switch in Cisco Packet Tracer.”
