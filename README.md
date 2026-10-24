@@ -1,5 +1,5 @@
 ## Ex. No 1. 	Basic Connectivity between Two PCs Using a Switch
-### Date : 22.08.25
+### Date : 24.10.26
 ### Name: Prithivirajan V
 ### Reg no: 212223100042
 
